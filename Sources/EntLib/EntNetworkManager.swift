@@ -9,7 +9,7 @@ import Foundation
 
 public class EntNetworkManager {
     
-    public static let shared = NetworkManager()
+    public static let shared = EntNetworkManager()
     
     private init() {}
     
